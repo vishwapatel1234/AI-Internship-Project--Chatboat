@@ -1,1 +1,1 @@
-# AI-Internship-Project--Chatboat
+# AI-Internship-Project--Chatbot
